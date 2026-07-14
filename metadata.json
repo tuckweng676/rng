@@ -1,0 +1,6 @@
+{
+  "name": "Random Number Generator",
+  "description": "A beautiful and versatile random number generator featuring custom ranges, dice rollers, coin flippers, list draws, and persistent history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
